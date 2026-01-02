@@ -2,8 +2,8 @@
 
 A computer vision application that utilizes **Unsupervised Learning (Self-Organizing Maps)** to classify fruit images and retrieve their nutritional profiles in real-time.
 
-![Project Screenshot](assets/demo_screenshot.png)
-*(Note: Upload a screenshot of your app running and replace the link above)*
+![Project Screenshot](Assets/App.png)
+
 
 ## 📋 Overview
 This project demonstrates the application of **Artificial Neural Networks (ANN)**—specifically a **MiniSom** implementation—to cluster and identify high-dimensional image data. Unlike standard CNNs (Supervised Learning), this model learns the topology of the input data without explicit labels during the feature extraction phase, organizing similar fruits into specific neighborhoods on a 10x10 grid.
@@ -35,7 +35,7 @@ Once classified, the application queries a structured dataset (Pandas) to displa
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
 
-
+```
 
 ## ⚙️ Installation & Usage
 
