@@ -1,0 +1,17 @@
+# Ignore the dataset (too large for GitHub)
+fruits/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore the virtual environment if you have one
+venv/
+env/
+
+# NOTE: We are NOT ignoring 'som_model.pkl' because we want
+# recruiters to be able to download and run your app instantly.
